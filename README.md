@@ -1,6 +1,6 @@
 # Hi, I'm Afolayan Opeyemi Ayomikun 👋
 
-I'm a full-stack web developer in Nigeria who builds practical, production-ready web products. My work spans PHP, MySQL, React, WordPress, payment integrations, and cPanel deployment.
+I'm a full-stack web developer in Nigeria who builds practical, production-ready web products. My work spans PHP, MySQL, React, Next.js, Node.js, mobile apps, WordPress, payment integrations, and cPanel deployment.
 
 I've completed more than 50 web projects, turning business requirements into responsive interfaces, secure backend workflows, database-driven applications, and deployed products.
 
@@ -18,6 +18,32 @@ A full-stack service operations platform for customers, agents, finance teams, a
 - PHP smoke tests and continuous integration with GitHub Actions
 
 [View the source code](https://github.com/oprahayo/iworksgt-service-portal) · [View the live product](https://portal.iworksgt.com/)
+
+### [Eki Suggest / EkiSignal](https://github.com/oprahayo/eki-suggest)
+
+A mobile-first civic reporting platform for Ekiti State, built for public issue reporting, tracking, moderation, routing, and government-desk workflows.
+
+- Next.js App Router, React, TypeScript, and Tailwind CSS
+- Citizen PWA with report submission, tracking, offline shell, install surfaces, and weak-network recovery
+- Admin dashboard for moderation, assignment, analytics, exports, and report workbench review
+- Handler dashboard for assigned government offices
+- Supabase schema, seed data, typed database models, and report workflow helpers
+- GitHub Actions checks for TypeScript and linting
+
+[View the source code](https://github.com/oprahayo/eki-suggest)
+
+### [GraceKids Devotion App](https://github.com/oprahayo/gracekids-devotion-app)
+
+A full-stack Bible memory and devotion platform for children and families, with backend API, web dashboard, mobile app, and database design.
+
+- Node.js, Express, TypeScript, MySQL, JWT, and bcrypt backend
+- React/Vite web app for admin, parent, child, lesson, subscription, and content flows
+- Expo/React Native mobile app for GraceKids Devotion
+- GraceKids child profiles, badges, tasks, reminders, weekly progress, and devotion content
+- Optional text-to-speech support and media/content management workflows
+- GitHub Actions checks for backend, frontend, and mobile TypeScript
+
+[View the source code](https://github.com/oprahayo/gracekids-devotion-app)
 
 ### [HOG Healthcare LMS](https://github.com/oprahayo/hog-healthcare-lms)
 
@@ -45,23 +71,50 @@ A responsive service website for a cleaning business, built to present services 
 
 [View the source code](https://github.com/oprahayo/hog-cleaning-services) · [View the live website](https://hoghealthcare.org/hog-cleaning/)
 
+### [Sure Sports FC Website](https://github.com/oprahayo/sure-sports-fc-website)
+
+A responsive club and academy website for recruitment, media storytelling, sponsorship visibility, applications, and future CMS planning.
+
+- Public club, academy, team, fixtures, media, shop, sponsorship, contact, and application pages
+- Mobile-responsive HTML, CSS, and JavaScript frontend
+- PHP academy application handoff
+- Admin/CMS prototype and MySQL backend planning documents
+- Live sports-club deployment on a real domain
+- GitHub Actions static checks and PHP linting
+
+[View the source code](https://github.com/oprahayo/sure-sports-fc-website) · [View the live website](https://suresports.org)
+
+### [Rudder Sports Management Website](https://github.com/oprahayo/rudder-sports-management-site)
+
+A PHP sports management and event website with admin-managed content, gallery, blog, shop-ready structure, contact handling, and JSON data storage.
+
+- Public company, services, gallery, blog, shop, product, order, leagues, and contact pages
+- PHP admin dashboard for website info, posts, gallery items, messages, products, and orders
+- JSON-backed content storage for lightweight cPanel deployment
+- Runtime credentials, messages, orders, and uploads excluded from the public repo
+- Live sports/event brand deployment
+- GitHub Actions PHP linting
+
+[View the source code](https://github.com/oprahayo/rudder-sports-management-site) · [View the live website](https://ruddersports.com)
+
 ## Technical toolkit
 
-- **Backend:** PHP, MySQL, PDO, REST-style APIs
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React, responsive UI development
-- **Platforms:** WordPress, cPanel, Apache
+- **Backend:** PHP, Node.js, Express, MySQL, PDO, REST-style APIs
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Bootstrap, React, Next.js, Vite, responsive UI development
+- **Mobile:** Expo, React Native
+- **Platforms:** WordPress, cPanel, Apache, Supabase
 - **Integrations:** Paystack, Flutterwave, Stripe, Google OAuth, OpenAI
-- **Engineering:** Authentication, payments, LMS workflows, CMS development, workflow automation, testing, deployment
+- **Engineering:** Authentication, payments, LMS workflows, PWA/offline behavior, CMS development, workflow automation, testing, deployment
 
 ## What I bring
 
 - I can own a feature from database design to deployed interface.
 - I translate real business processes into maintainable software workflows.
-- I build for security, mobile usability, lead generation, and day-to-day administration.
+- I build for security, mobile usability, lead generation, offline-first use cases, and day-to-day administration.
 - I am comfortable improving existing systems as well as starting new products.
 
 ## Career direction
 
-I'm open to full-stack, PHP/backend, WordPress, and web application opportunities where I can contribute, keep learning, and ship useful products.
+I'm open to full-stack, PHP/backend, React/Next.js, WordPress, mobile, and web application opportunities where I can contribute, keep learning, and ship useful products.
 
 You can reach me through [GitHub](https://github.com/oprahayo).
