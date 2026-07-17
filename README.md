@@ -21,6 +21,21 @@ A multi-tenant commerce, POS, invoicing, inventory, and business-management SaaS
 
 [View the source code](https://github.com/oprahayo/kobiza)
 
+### [Jewaco Electronics Commerce Platform](https://github.com/oprahayo/jewaco-electronics-commerce)
+
+[![Jewaco Electronics storefront](https://raw.githubusercontent.com/oprahayo/jewaco-electronics-commerce/main/docs/screenshots/01-homepage-desktop.jpg)](https://github.com/oprahayo/jewaco-electronics-commerce)
+
+A responsive React and TypeScript ecommerce PWA designed for a Nigerian electronics retailer with a 417-item catalogue.
+
+- Vite, React Router, TanStack Query, Better Auth client, Motion, React Helmet, and reusable component architecture
+- Product catalogue, category and brand discovery, responsive search, detailed product pages, discounts, and stock state
+- Customer accounts, protected cart and offer flows, wishlist, history, notifications, and PWA installation surfaces
+- Negotiated-price workflow and prefilled WhatsApp product enquiries for assisted conversion
+- Dedicated desktop and mobile navigation with responsive product grids and customer actions
+- Six-screen visual case study with verified codebase map, architecture, and production-readiness notes
+
+[View the technical case study](https://github.com/oprahayo/jewaco-electronics-commerce) · [Open the live preview](https://7z4hnammb2.preview.c37.airoapp.ai/?airoShareToken=6dqNtT6FQV5G)
+
 ### [Tridan Business Concepts Ltd](https://tridanbcl.com/)
 
 [![Tridan Business Concepts website](assets/projects/tridanbcl-homepage.jpg)](https://tridanbcl.com/)
@@ -158,6 +173,6 @@ A PHP sports management and event website with admin-managed content, gallery, b
 
 ## Career direction
 
-I'm open to full-stack, PHP/backend, React/Next.js, WordPress, mobile, and web application opportunities where I can contribute, keep learning, and ship useful products.
+I'm open to full-stack, PHP/backend, React/Next.js, WordPress, mobile, and web application roles, including remote, international, and relocation-supported opportunities where I can contribute and ship useful products.
 
 You can reach me through [GitHub](https://github.com/oprahayo).
