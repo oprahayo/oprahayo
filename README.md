@@ -37,6 +37,8 @@ A production WordPress website for a UK consultancy serving the finance, educati
 
 ### [iWorks GT Service Portal](https://github.com/oprahayo/iworksgt-service-portal)
 
+[![iWorks GT Service Portal](assets/projects/iworksgt-portal-homepage.jpg)](https://portal.iworksgt.com/)
+
 A full-stack service operations platform for customers, agents, finance teams, and administrators.
 
 - Multi-role dashboards and role-based access control
@@ -49,6 +51,8 @@ A full-stack service operations platform for customers, agents, finance teams, a
 [View the source code](https://github.com/oprahayo/iworksgt-service-portal) · [View the live product](https://portal.iworksgt.com/)
 
 ### [Eki Suggest / EkiSignal](https://github.com/oprahayo/eki-suggest)
+
+[![Eki Suggest civic reporting platform](assets/projects/eki-suggest.jpg)](https://github.com/oprahayo/eki-suggest)
 
 A mobile-first civic reporting platform for Ekiti State, built for public issue reporting, tracking, moderation, routing, and government-desk workflows.
 
@@ -63,6 +67,8 @@ A mobile-first civic reporting platform for Ekiti State, built for public issue 
 
 ### [GraceKids Devotion App](https://github.com/oprahayo/gracekids-devotion-app)
 
+[![GraceKids Devotion App](assets/projects/gracekids-devotion-app.jpg)](https://github.com/oprahayo/gracekids-devotion-app)
+
 A full-stack Bible memory and devotion platform for children and families, with backend API, web dashboard, mobile app, and database design.
 
 - Node.js, Express, TypeScript, MySQL, JWT, and bcrypt backend
@@ -75,6 +81,8 @@ A full-stack Bible memory and devotion platform for children and families, with 
 [View the source code](https://github.com/oprahayo/gracekids-devotion-app)
 
 ### [HOG Healthcare LMS](https://github.com/oprahayo/hog-healthcare-lms)
+
+[![HOG Healthcare LMS](assets/projects/hog-healthcare-lms.jpg)](https://hoghealthcare.org/lms/index.php)
 
 A healthcare learning management portal for online certificate pathways, learner onboarding, assessments, certificates, transcripts, support workflows, and admin operations.
 
@@ -89,6 +97,8 @@ A healthcare learning management portal for online certificate pathways, learner
 
 ### [HOG Cleaning Services Website](https://github.com/oprahayo/hog-cleaning-services)
 
+[![HOG Cleaning Services website](assets/projects/hog-cleaning-services.jpg)](https://hoghealthcare.org/hog-cleaning/)
+
 A responsive service website for a cleaning business, built to present services clearly and convert visitors into quote requests.
 
 - Home, About, Services, Industries, and Contact pages
@@ -102,6 +112,8 @@ A responsive service website for a cleaning business, built to present services 
 
 ### [Sure Sports FC Website](https://github.com/oprahayo/sure-sports-fc-website)
 
+[![Sure Sports FC website](assets/projects/sure-sports-fc.jpg)](https://suresports.org/)
+
 A responsive club and academy website for recruitment, media storytelling, sponsorship visibility, applications, and future CMS planning.
 
 - Public club, academy, team, fixtures, media, shop, sponsorship, contact, and application pages
@@ -114,6 +126,8 @@ A responsive club and academy website for recruitment, media storytelling, spons
 [View the source code](https://github.com/oprahayo/sure-sports-fc-website) · [View the live website](https://suresports.org)
 
 ### [Rudder Sports Management Website](https://github.com/oprahayo/rudder-sports-management-site)
+
+[![Rudder Sports Management website](assets/projects/rudder-sports-management.jpg)](https://ruddersports.com/)
 
 A PHP sports management and event website with admin-managed content, gallery, blog, shop-ready structure, contact handling, and JSON data storage.
 
