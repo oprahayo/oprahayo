@@ -10,9 +10,9 @@ I have completed more than 50 web projects and am open to remote, international,
 
 - End-to-end product delivery across backend, frontend, mobile, database, integrations, and deployment
 - Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, and offline-first PWA workflows
-- Nine public source-code case studies, six live production deployments, and one interactive ecommerce preview linked below
+- Twelve public technical case studies, including eleven source-code repositories, eight live production deployments, and two interactive previews linked below
 - Engineering evidence including automated tests, GitHub Actions CI, documented setup, security notes, and environment-safe public repositories
-- Cross-sector delivery for commerce, professional services, healthcare training, civic engagement, children's education, cleaning services, and sports organizations
+- Cross-sector delivery for commerce, professional services, healthcare training, civic engagement, children's education, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
 
 ## Portfolio at a glance
 
@@ -28,6 +28,9 @@ I have completed more than 50 web projects and am open to remote, international,
 | HOG Cleaning Services | Conversion-focused service marketing website | HTML, CSS, Bootstrap | [Source](https://github.com/oprahayo/hog-cleaning-services) · [Live](https://hoghealthcare.org/hog-cleaning/) |
 | Sure Sports FC | Club, academy, recruitment, sponsorship, and media website | HTML, CSS, JavaScript, PHP | [Source](https://github.com/oprahayo/sure-sports-fc-website) · [Live](https://suresports.org/) |
 | Rudder Sports Management | PHP content management, events, gallery, blog, and shop structure | PHP, JSON, JavaScript | [Source](https://github.com/oprahayo/rudder-sports-management-site) · [Live](https://ruddersports.com/) |
+| Sojay Farms | Sustainable agriculture, operations, community engagement, and secure enquiries | PHP, HTML, CSS, JavaScript | [Source](https://github.com/oprahayo/sojay-farms-website) · [Live](https://www.sojayfarms.com/) |
+| BlinksByEla | Interactive beauty-studio discovery and appointment-booking prototype | PHP-compatible HTML, CSS, JavaScript | [Source](https://github.com/oprahayo/blinksbyela-beauty-studio) · [Live prototype](https://blinksbyela.iworksgt.com/) |
+| Triple G Eco Revival | Sustainability-focused corporate website and responsible WordPress delivery | WordPress, responsive web design | [Case study](https://github.com/oprahayo/triple-g-eco-revival-case-study) · [Live](https://triplegeco.com/) |
 
 ## Selected engineering case studies
 
@@ -179,6 +182,48 @@ A PHP sports management and event website with admin-managed content, gallery, b
 - GitHub Actions PHP linting
 
 [View the source code](https://github.com/oprahayo/rudder-sports-management-site) · [View the live website](https://ruddersports.com)
+
+### [Sojay Farms Website](https://github.com/oprahayo/sojay-farms-website)
+
+[![Sojay Farms sustainable agriculture website](https://raw.githubusercontent.com/oprahayo/sojay-farms-website/main/images/hero-1.png)](https://www.sojayfarms.com/)
+
+A responsive agricultural website presenting Sojay Farms' operations, sustainability mission, community programmes, partnerships, and enquiry pathways.
+
+- Multi-page PHP experience for Home, About, Operations, Community, and Contact
+- Responsive agricultural storytelling with production imagery and partner credibility
+- Contact validation, CSRF protection, spam honeypot, safe mail headers, and environment-based delivery settings
+- Canonical URLs, social metadata, structured organisation data, robots directives, and XML sitemap
+- Environment-safe public repository with no server configuration, logs, credentials, or submissions
+- GitHub Actions PHP syntax checks
+
+[View the source code](https://github.com/oprahayo/sojay-farms-website) · [View the live website](https://www.sojayfarms.com/)
+
+### [BlinksByEla Beauty Studio](https://github.com/oprahayo/blinksbyela-beauty-studio)
+
+[![BlinksByEla booking prototype](https://raw.githubusercontent.com/oprahayo/blinksbyela-beauty-studio/main/assets/images/prototype/blinksbyela-concept.png)](https://blinksbyela.iworksgt.com/)
+
+A polished single-page beauty-studio booking prototype for service discovery, artist selection, appointment details, membership choice, and simulated payment.
+
+- Responsive salon landing page and multi-step booking interface
+- Service, artist, pricing, availability, guest, registration, and member-login states
+- Vanilla JavaScript state management and client-side validation
+- Simulated payment, receipt, and reminder outcomes with no customer data or real transactions
+- Open Graph, Twitter Card, structured application metadata, robots directives, and XML sitemap
+- GitHub Actions PHP syntax checks
+
+[View the source code](https://github.com/oprahayo/blinksbyela-beauty-studio) · [Open the live prototype](https://blinksbyela.iworksgt.com/)
+
+### [Triple G Eco Revival](https://github.com/oprahayo/triple-g-eco-revival-case-study)
+
+A production WordPress website presenting sustainability, environmental standards, corporate responsibility, operational excellence, and partner credibility for an Africa-focused organisation.
+
+- Responsive corporate experience across mobile, tablet, and desktop
+- Sustainability and environmental-standard positioning
+- Branded credibility, partner, and call-to-action sections
+- HTTPS production deployment on the organisation's domain
+- Responsible case-study publication that excludes WordPress core, licensed commercial theme code, plugins, credentials, uploads, logs, and client data
+
+[View the technical case study](https://github.com/oprahayo/triple-g-eco-revival-case-study) · [View the live website](https://triplegeco.com/)
 
 ## Technical expertise
 
