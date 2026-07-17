@@ -1,10 +1,35 @@
-# Hi, I'm Afolayan Opeyemi Ayomikun 👋
+# Afolayan Opeyemi Ayomikun | Full-Stack Software Developer
 
-I'm a full-stack web developer in Nigeria who builds practical, production-ready web products. My work spans PHP, MySQL, React, Next.js, Node.js, mobile apps, WordPress, payment integrations, and cPanel deployment.
+I'm a Nigeria-based full-stack software developer and product engineer building production-ready SaaS, ecommerce, POS, payment, learning-management, civic-technology, mobile, and business web applications.
 
-I've completed more than 50 web projects, turning business requirements into responsive interfaces, secure backend workflows, database-driven applications, and deployed products.
+My core stack includes Laravel, PHP, React, Next.js, TypeScript, Node.js, MySQL, PostgreSQL, React Native, WordPress, Supabase, and progressive web app technologies. I take products from requirements and database design through secure backend workflows, responsive interfaces, testing, deployment, and ongoing operations.
 
-## Featured work
+I have completed more than 50 web projects and am open to remote, international, and relocation-supported software engineering opportunities. I work from Nigeria (UTC+1) and can collaborate across time zones.
+
+## Professional profile
+
+- End-to-end product delivery across backend, frontend, mobile, database, integrations, and deployment
+- Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, and offline-first PWA workflows
+- Nine public source-code case studies, six live production deployments, and one interactive ecommerce preview linked below
+- Engineering evidence including automated tests, GitHub Actions CI, documented setup, security notes, and environment-safe public repositories
+- Cross-sector delivery for commerce, professional services, healthcare training, civic engagement, children's education, cleaning services, and sports organizations
+
+## Portfolio at a glance
+
+| Project | Product area | Primary technology | Evidence |
+| --- | --- | --- | --- |
+| Kobiza | Multi-tenant commerce, POS, invoicing, inventory, and merchant SaaS | Laravel, React, TypeScript, Inertia, PostgreSQL | [Source](https://github.com/oprahayo/kobiza) |
+| Jewaco Electronics | Ecommerce catalogue, customer accounts, offers, wishlist, and PWA | React, TypeScript, Vite, TanStack Query | [Source](https://github.com/oprahayo/jewaco-electronics-commerce) · [Live preview](https://7z4hnammb2.preview.c37.airoapp.ai/?airoShareToken=6dqNtT6FQV5G) |
+| Tridan Business Concepts | UK consultancy website and lead-generation experience | WordPress, responsive web design | [Live](https://tridanbcl.com/) |
+| iWorks GT | Service operations, payments, delivery, commissions, and reporting | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/iworksgt-service-portal) · [Live](https://portal.iworksgt.com/) |
+| Eki Suggest / EkiSignal | Civic reporting, issue tracking, moderation, and public-sector routing | Next.js, React, TypeScript, Supabase, PWA | [Source](https://github.com/oprahayo/eki-suggest) |
+| GraceKids | Family devotion platform with backend, web dashboard, and mobile app | Node.js, Express, React, React Native, MySQL | [Source](https://github.com/oprahayo/gracekids-devotion-app) |
+| HOG Healthcare LMS | Healthcare learning, assessments, certificates, and administration | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/hog-healthcare-lms) · [Live](https://hoghealthcare.org/lms/index.php) |
+| HOG Cleaning Services | Conversion-focused service marketing website | HTML, CSS, Bootstrap | [Source](https://github.com/oprahayo/hog-cleaning-services) · [Live](https://hoghealthcare.org/hog-cleaning/) |
+| Sure Sports FC | Club, academy, recruitment, sponsorship, and media website | HTML, CSS, JavaScript, PHP | [Source](https://github.com/oprahayo/sure-sports-fc-website) · [Live](https://suresports.org/) |
+| Rudder Sports Management | PHP content management, events, gallery, blog, and shop structure | PHP, JSON, JavaScript | [Source](https://github.com/oprahayo/rudder-sports-management-site) · [Live](https://ruddersports.com/) |
+
+## Selected engineering case studies
 
 ### [Kobiza Commerce Platform](https://github.com/oprahayo/kobiza)
 
@@ -155,24 +180,26 @@ A PHP sports management and event website with admin-managed content, gallery, b
 
 [View the source code](https://github.com/oprahayo/rudder-sports-management-site) · [View the live website](https://ruddersports.com)
 
-## Technical toolkit
+## Technical expertise
 
-- **Backend:** PHP, Node.js, Express, MySQL, PDO, REST-style APIs
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, Bootstrap, React, Next.js, Vite, responsive UI development
-- **Mobile:** Expo, React Native
-- **Platforms:** WordPress, cPanel, Apache, Supabase
-- **Integrations:** Paystack, Flutterwave, Stripe, Google OAuth, OpenAI
-- **Engineering:** Authentication, payments, LMS workflows, PWA/offline behavior, CMS development, workflow automation, testing, deployment
+- **Backend:** Laravel, PHP, Node.js, Express, PDO, REST APIs, authentication, role-based access control, background-job and webhook workflows
+- **Frontend:** React, Next.js, Inertia, TypeScript, JavaScript, Vite, HTML, CSS, Tailwind CSS, Bootstrap, responsive user interfaces
+- **Data:** PostgreSQL, MySQL, MariaDB, SQLite, Supabase, relational data modelling, JSON-backed content systems
+- **Mobile and PWA:** React Native, Expo, service workers, installable apps, offline and weak-network experiences
+- **Platforms and delivery:** WordPress, Apache, cPanel, GitHub Actions, automated testing, production deployment, environment configuration
+- **Integrations:** Paystack, Flutterwave, Stripe, Google OAuth, OpenAI, SMTP, media uploads, CSV reporting
+- **Product domains:** SaaS, ecommerce, point of sale, payments, LMS, civic tech, CMS, workflow automation, service operations
 
 ## What I bring
 
-- I can own a feature from database design to deployed interface.
-- I translate real business processes into maintainable software workflows.
-- I build for security, mobile usability, lead generation, offline-first use cases, and day-to-day administration.
-- I am comfortable improving existing systems as well as starting new products.
+- I own features from requirements and database design to tested, deployed user experiences.
+- I translate real operational and commercial processes into maintainable software workflows.
+- I build with security, mobile usability, accessibility, performance, lead generation, and day-to-day administration in mind.
+- I document setup and deployment so another engineer can understand, run, and extend the work.
+- I am comfortable improving existing systems, integrating third-party services, and starting new digital products.
 
 ## Career direction
 
-I'm open to full-stack, PHP/backend, React/Next.js, WordPress, mobile, and web application roles, including remote, international, and relocation-supported opportunities where I can contribute and ship useful products.
+I'm open to full-stack software developer, product engineer, PHP/Laravel backend developer, React/Next.js developer, and mobile application roles. I welcome remote, international, and relocation-supported opportunities where I can contribute to a strong engineering team and ship useful digital products.
 
-You can reach me through [GitHub](https://github.com/oprahayo).
+For hiring, technical collaboration, or project enquiries, contact me through [GitHub](https://github.com/oprahayo).
