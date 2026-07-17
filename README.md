@@ -6,6 +6,35 @@ I've completed more than 50 web projects, turning business requirements into res
 
 ## Featured work
 
+### [Kobiza Commerce Platform](https://github.com/oprahayo/kobiza)
+
+[![Kobiza merchant dashboard](https://raw.githubusercontent.com/oprahayo/kobiza/main/docs/screenshots/dashboard.jpg)](https://github.com/oprahayo/kobiza)
+
+A multi-tenant commerce, POS, invoicing, inventory, and business-management SaaS designed for African merchants.
+
+- Laravel, React, TypeScript, Inertia, PostgreSQL/SQLite, Redis-ready queues, and PWA support
+- Online storefront, cart, checkout, orders, invoices, payments, receipts, and customer CRM
+- Touch-friendly browser POS with cashier shifts, split payments, and barcode scanning
+- Shared Scan Engine for camera, USB, Bluetooth, Android POS, and future terminal adapters
+- Tenant-scoped roles, permissions, audit logs, public tokens, and cross-tenant tests
+- 116 application tests, scanner tests, production builds, and GitHub Actions CI
+
+[View the source code](https://github.com/oprahayo/kobiza)
+
+### [Tridan Business Concepts Ltd](https://tridanbcl.com/)
+
+[![Tridan Business Concepts website](assets/projects/tridanbcl-homepage.jpg)](https://tridanbcl.com/)
+
+A production WordPress website for a UK consultancy serving the finance, education, governance, technology, and public sectors.
+
+- Responsive multi-page experience covering Home, About, Services, Social Values, Case Studies, and Contact
+- Clear service presentation for Finance & Governance, Education Consultancy, and Technology & Digital Services
+- Ten-year company story, strategic goals, credibility signals, testimonial, and conversion-focused calls to action
+- Structured contact and enquiry pathways for education and public-sector clients
+- Live deployment on the client’s production domain
+
+[View the live website](https://tridanbcl.com/)
+
 ### [iWorks GT Service Portal](https://github.com/oprahayo/iworksgt-service-portal)
 
 A full-stack service operations platform for customers, agents, finance teams, and administrators.
