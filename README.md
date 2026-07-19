@@ -126,7 +126,7 @@ A full-stack Bible memory and devotion platform for children and families, with 
 
 ### [HOG Healthcare LMS](https://github.com/oprahayo/hog-healthcare-lms)
 
-[![HOG Healthcare LMS](assets/projects/hog-healthcare-lms.jpg)](https://hoghealthcare.org/lms/index.php)
+[![HOG Learning production homepage](https://raw.githubusercontent.com/oprahayo/hog-healthcare-lms/main/docs/screenshots/hog-learning-homepage.jpg)](https://hoghealthcare.org/lms/index.php)
 
 A healthcare learning management portal for online certificate pathways, learner onboarding, assessments, certificates, transcripts, support workflows, and admin operations.
 
