@@ -22,7 +22,7 @@ I have completed more than 50 web projects and am open to remote, international,
 | Jewaco Electronics | Ecommerce catalogue, customer accounts, offers, wishlist, and PWA | React, TypeScript, Vite, TanStack Query | [Source](https://github.com/oprahayo/jewaco-electronics-commerce) · [Live preview](https://7z4hnammb2.preview.c37.airoapp.ai/?airoShareToken=6dqNtT6FQV5G) |
 | Tridan Business Concepts | UK consultancy website and lead-generation experience | WordPress, responsive web design | [Live](https://tridanbcl.com/) |
 | iWorks GT | Service operations, payments, delivery, commissions, and reporting | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/iworksgt-service-portal) · [Live](https://portal.iworksgt.com/) |
-| Contest Voting System | Paid voting, payment verification, setup wizard, trials, licensing, and domain monitoring | WordPress, PHP, MySQL, Paystack, Flutterwave | [Source](https://github.com/oprahayo/contest-voting-system-wordpress-plugin) · [Live demo](https://plugin.iworksgt.com/) |
+| Contest Voting System | Paid voting, payment verification, setup wizard, trials, licensing, and domain monitoring | WordPress, PHP, MySQL, Paystack, Flutterwave | [Source](https://github.com/oprahayo/contest-voting-system-wordpress-plugin) · [Live demo](https://plugin.iworksgt.com/) · [Video](https://www.youtube.com/watch?v=H5rHS3PDug8) |
 | Triply Travels | Travel services, customer requests, agent operations, messaging, content, and administration | PHP, SQLite, JavaScript | [Source](https://github.com/oprahayo/triply-travels-platform) · [Live](https://triplytravels.com/) |
 | Nevada Helmos | Hospitality, accommodation discovery, property presentation, and booking pathways | WordPress, responsive web design | [Case study](https://github.com/oprahayo/nevada-helmos-wordpress-case-study) · [Live](https://nevadahelmos.com/) |
 | Eki Suggest / EkiSignal | Civic reporting, issue tracking, moderation, and public-sector routing | Next.js, React, TypeScript, Supabase, PWA | [Source](https://github.com/oprahayo/eki-suggest) |
@@ -98,7 +98,7 @@ A full-stack service operations platform for customers, agents, finance teams, a
 
 ### [Contest Voting System WordPress Plugin](https://github.com/oprahayo/contest-voting-system-wordpress-plugin)
 
-[![Contest Voting System public voting screen](https://raw.githubusercontent.com/oprahayo/contest-voting-system-wordpress-plugin/main/docs/screenshots/frontend-voting-page.jpg)](https://plugin.iworksgt.com/contest-voting/)
+[![Watch the Contest Voting System WordPress plugin video demonstration](https://raw.githubusercontent.com/oprahayo/contest-voting-system-wordpress-plugin/main/docs/screenshots/contest-voting-system-video.jpg)](https://www.youtube.com/watch?v=H5rHS3PDug8)
 
 A commercial-ready WordPress plugin for paid competitions, combining contestant management, guided setup, payment verification, trial limits, licensing and seller-side activation operations.
 
@@ -110,9 +110,10 @@ A commercial-ready WordPress plugin for paid competitions, combining contestant 
 - Client activation codes, root-domain normalization, lifetime domain limits and scheduled licence heartbeats
 - Seller dashboard for licence issuance, approval, revocation, domain usage and activation monitoring
 - Security controls including capabilities, nonces, sanitization, escaping, prepared queries and duplicate-payment protection
+- Public YouTube walkthrough demonstrating the paid-voting WordPress experience
 - Source-available portfolio publication excluding payment secrets, customer records, activation history, client packages and server configuration
 
-[View the source code](https://github.com/oprahayo/contest-voting-system-wordpress-plugin) · [View the product showcase](https://plugin.iworksgt.com/) · [Open the live voting demo](https://plugin.iworksgt.com/contest-voting/)
+[View the source code](https://github.com/oprahayo/contest-voting-system-wordpress-plugin) · [Watch the video walkthrough](https://www.youtube.com/watch?v=H5rHS3PDug8) · [View the product showcase](https://plugin.iworksgt.com/) · [Open the live voting demo](https://plugin.iworksgt.com/contest-voting/)
 
 ### [Eki Suggest / EkiSignal](https://github.com/oprahayo/eki-suggest)
 
