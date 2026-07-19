@@ -186,7 +186,7 @@ A PHP sports management and event website with admin-managed content, gallery, b
 
 ### [Triply Travels Platform](https://github.com/oprahayo/triply-travels-platform)
 
-[![Triply Travels Nigeria Limited](https://raw.githubusercontent.com/oprahayo/triply-travels-platform/main/images/logo.png)](https://triplytravels.com/)
+[![Triply Travels production homepage](https://raw.githubusercontent.com/oprahayo/triply-travels-platform/main/docs/screenshots/triply-travels-homepage.jpg)](https://triplytravels.com/)
 
 A production travel-services platform combining a search-optimized public website with customer, travel-agent, and administrator operations.
 
