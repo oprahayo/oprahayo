@@ -202,7 +202,7 @@ A production travel-services platform combining a search-optimized public websit
 
 ### [Sojay Farms Website](https://github.com/oprahayo/sojay-farms-website)
 
-[![Sojay Farms sustainable agriculture website](https://raw.githubusercontent.com/oprahayo/sojay-farms-website/main/images/hero-1.png)](https://www.sojayfarms.com/)
+[![Sojay Farms production homepage](https://raw.githubusercontent.com/oprahayo/sojay-farms-website/main/docs/screenshots/sojay-farms-homepage.jpg)](https://www.sojayfarms.com/)
 
 A responsive agricultural website presenting Sojay Farms' operations, sustainability mission, community programmes, partnerships, and enquiry pathways.
 
