@@ -10,9 +10,9 @@ I have completed more than 50 web projects and am open to remote, international,
 
 - End-to-end product delivery across backend, frontend, mobile, database, integrations, and deployment
 - Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, and offline-first PWA workflows
-- Twelve public technical case studies, including eleven source-code repositories, eight live production deployments, and two interactive previews linked below
+- Thirteen public technical case studies, including twelve source-code repositories, nine live production deployments, and two interactive previews linked below
 - Engineering evidence including automated tests, GitHub Actions CI, documented setup, security notes, and environment-safe public repositories
-- Cross-sector delivery for commerce, professional services, healthcare training, civic engagement, children's education, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
+- Cross-sector delivery for commerce, professional services, travel and tourism, healthcare training, civic engagement, children's education, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
 
 ## Portfolio at a glance
 
@@ -22,6 +22,7 @@ I have completed more than 50 web projects and am open to remote, international,
 | Jewaco Electronics | Ecommerce catalogue, customer accounts, offers, wishlist, and PWA | React, TypeScript, Vite, TanStack Query | [Source](https://github.com/oprahayo/jewaco-electronics-commerce) · [Live preview](https://7z4hnammb2.preview.c37.airoapp.ai/?airoShareToken=6dqNtT6FQV5G) |
 | Tridan Business Concepts | UK consultancy website and lead-generation experience | WordPress, responsive web design | [Live](https://tridanbcl.com/) |
 | iWorks GT | Service operations, payments, delivery, commissions, and reporting | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/iworksgt-service-portal) · [Live](https://portal.iworksgt.com/) |
+| Triply Travels | Travel services, customer requests, agent operations, messaging, content, and administration | PHP, SQLite, JavaScript | [Source](https://github.com/oprahayo/triply-travels-platform) · [Live](https://triplytravels.com/) |
 | Eki Suggest / EkiSignal | Civic reporting, issue tracking, moderation, and public-sector routing | Next.js, React, TypeScript, Supabase, PWA | [Source](https://github.com/oprahayo/eki-suggest) |
 | GraceKids | Family devotion platform with backend, web dashboard, and mobile app | Node.js, Express, React, React Native, MySQL | [Source](https://github.com/oprahayo/gracekids-devotion-app) |
 | HOG Healthcare LMS | Healthcare learning, assessments, certificates, and administration | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/hog-healthcare-lms) · [Live](https://hoghealthcare.org/lms/index.php) |
@@ -182,6 +183,22 @@ A PHP sports management and event website with admin-managed content, gallery, b
 - GitHub Actions PHP linting
 
 [View the source code](https://github.com/oprahayo/rudder-sports-management-site) · [View the live website](https://ruddersports.com)
+
+### [Triply Travels Platform](https://github.com/oprahayo/triply-travels-platform)
+
+[![Triply Travels Nigeria Limited](https://raw.githubusercontent.com/oprahayo/triply-travels-platform/main/images/logo.png)](https://triplytravels.com/)
+
+A production travel-services platform combining a search-optimized public website with customer, travel-agent, and administrator operations.
+
+- Public discovery for flights, hotels, visa assistance, tours, insurance, transfers, cruises, and group travel
+- Customer accounts, profiles, service requests, order history, notifications, conversations, and attachments
+- Agent request queues with assignment, lifecycle updates, notes, messages, and document workflows
+- Administrative management for users, agents, requests, services, offers, blog posts, contact messages, and site settings
+- PHP and SQLite architecture with password hashing, session rotation, CSRF protection, prepared statements, role checks, and upload allowlists
+- Privacy-safe portfolio publication excluding customer records, passport details, uploads, production databases, backups, deployment credentials, certificates, and private keys
+- Canonical and social metadata, structured search signals, robots directives, XML sitemap, and GitHub Actions PHP linting
+
+[View the source code](https://github.com/oprahayo/triply-travels-platform) · [View the live website](https://triplytravels.com/)
 
 ### [Sojay Farms Website](https://github.com/oprahayo/sojay-farms-website)
 
