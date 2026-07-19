@@ -9,10 +9,10 @@ I have completed more than 50 web projects and am open to remote, international,
 ## Professional profile
 
 - End-to-end product delivery across backend, frontend, mobile, database, integrations, and deployment
-- Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, and offline-first PWA workflows
-- Thirteen public technical case studies, including twelve source-code repositories, nine live production deployments, and two interactive previews linked below
+- Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, commercial WordPress plugins, and offline-first PWA workflows
+- Fourteen public technical case studies, including thirteen source-code repositories, ten live production deployments, and two interactive previews linked below
 - Engineering evidence including automated tests, GitHub Actions CI, documented setup, security notes, and environment-safe public repositories
-- Cross-sector delivery for commerce, professional services, travel and tourism, healthcare training, civic engagement, children's education, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
+- Cross-sector delivery for commerce, professional services, travel and tourism, healthcare training, civic engagement, children's education, digital competitions, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
 
 ## Portfolio at a glance
 
@@ -22,6 +22,7 @@ I have completed more than 50 web projects and am open to remote, international,
 | Jewaco Electronics | Ecommerce catalogue, customer accounts, offers, wishlist, and PWA | React, TypeScript, Vite, TanStack Query | [Source](https://github.com/oprahayo/jewaco-electronics-commerce) · [Live preview](https://7z4hnammb2.preview.c37.airoapp.ai/?airoShareToken=6dqNtT6FQV5G) |
 | Tridan Business Concepts | UK consultancy website and lead-generation experience | WordPress, responsive web design | [Live](https://tridanbcl.com/) |
 | iWorks GT | Service operations, payments, delivery, commissions, and reporting | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/iworksgt-service-portal) · [Live](https://portal.iworksgt.com/) |
+| Contest Voting System | Paid voting, payment verification, setup wizard, trials, licensing, and domain monitoring | WordPress, PHP, MySQL, Paystack, Flutterwave | [Source](https://github.com/oprahayo/contest-voting-system-wordpress-plugin) · [Live demo](https://plugin.iworksgt.com/) |
 | Triply Travels | Travel services, customer requests, agent operations, messaging, content, and administration | PHP, SQLite, JavaScript | [Source](https://github.com/oprahayo/triply-travels-platform) · [Live](https://triplytravels.com/) |
 | Eki Suggest / EkiSignal | Civic reporting, issue tracking, moderation, and public-sector routing | Next.js, React, TypeScript, Supabase, PWA | [Source](https://github.com/oprahayo/eki-suggest) |
 | GraceKids | Family devotion platform with backend, web dashboard, and mobile app | Node.js, Express, React, React Native, MySQL | [Source](https://github.com/oprahayo/gracekids-devotion-app) |
@@ -93,6 +94,24 @@ A full-stack service operations platform for customers, agents, finance teams, a
 - PHP smoke tests and continuous integration with GitHub Actions
 
 [View the source code](https://github.com/oprahayo/iworksgt-service-portal) · [View the live product](https://portal.iworksgt.com/)
+
+### [Contest Voting System WordPress Plugin](https://github.com/oprahayo/contest-voting-system-wordpress-plugin)
+
+[![Contest Voting System public voting screen](https://raw.githubusercontent.com/oprahayo/contest-voting-system-wordpress-plugin/main/docs/screenshots/frontend-voting-page.jpg)](https://plugin.iworksgt.com/contest-voting/)
+
+A commercial-ready WordPress plugin for paid competitions, combining contestant management, guided setup, payment verification, trial limits, licensing and seller-side activation operations.
+
+- WordPress custom post types, shortcodes, AJAX, REST APIs, cron scheduling and custom database tables
+- Public voting and live results pages with configurable vote pricing, quantities, currency and brand styling
+- Paystack and Flutterwave checkout with gateway-specific payloads, webhooks and server-side transaction verification
+- First-run wizard that creates frontend pages and guides organizers through gateway and contest configuration
+- 50-vote trial flow with activation enforcement after the evaluation allowance is exhausted
+- Client activation codes, root-domain normalization, lifetime domain limits and scheduled licence heartbeats
+- Seller dashboard for licence issuance, approval, revocation, domain usage and activation monitoring
+- Security controls including capabilities, nonces, sanitization, escaping, prepared queries and duplicate-payment protection
+- Source-available portfolio publication excluding payment secrets, customer records, activation history, client packages and server configuration
+
+[View the source code](https://github.com/oprahayo/contest-voting-system-wordpress-plugin) · [View the product showcase](https://plugin.iworksgt.com/) · [Open the live voting demo](https://plugin.iworksgt.com/contest-voting/)
 
 ### [Eki Suggest / EkiSignal](https://github.com/oprahayo/eki-suggest)
 
@@ -248,9 +267,9 @@ A production WordPress website presenting sustainability, environmental standard
 - **Frontend:** React, Next.js, Inertia, TypeScript, JavaScript, Vite, HTML, CSS, Tailwind CSS, Bootstrap, responsive user interfaces
 - **Data:** PostgreSQL, MySQL, MariaDB, SQLite, Supabase, relational data modelling, JSON-backed content systems
 - **Mobile and PWA:** React Native, Expo, service workers, installable apps, offline and weak-network experiences
-- **Platforms and delivery:** WordPress, Apache, cPanel, GitHub Actions, automated testing, production deployment, environment configuration
+- **Platforms and delivery:** WordPress plugin and theme development, Apache, cPanel, GitHub Actions, automated testing, production deployment, environment configuration
 - **Integrations:** Paystack, Flutterwave, Stripe, Google OAuth, OpenAI, SMTP, media uploads, CSV reporting
-- **Product domains:** SaaS, ecommerce, point of sale, payments, LMS, civic tech, CMS, workflow automation, service operations
+- **Product domains:** SaaS, ecommerce, point of sale, payments, LMS, civic tech, CMS, commercial plugins, software licensing, workflow automation, service operations
 
 ## What I bring
 
