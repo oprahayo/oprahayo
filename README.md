@@ -141,7 +141,7 @@ A healthcare learning management portal for online certificate pathways, learner
 
 ### [HOG Cleaning Services Website](https://github.com/oprahayo/hog-cleaning-services)
 
-[![HOG Cleaning Services website](assets/projects/hog-cleaning-services.jpg)](https://hoghealthcare.org/hog-cleaning/)
+[![HOG Cleaning Services production homepage](https://raw.githubusercontent.com/oprahayo/hog-cleaning-services/main/docs/screenshots/hog-cleaning-homepage.jpg)](https://hoghealthcare.org/hog-cleaning/)
 
 A responsive service website for a cleaning business, built to present services clearly and convert visitors into quote requests.
 
