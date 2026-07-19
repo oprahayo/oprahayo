@@ -1,6 +1,6 @@
-# Afolayan Opeyemi Ayomikun | Full-Stack Software Developer
+# Afolayan Opeyemi Ayomikun | Full-Stack Software Developer & Technology Founder
 
-I'm a Nigeria-based full-stack software developer and product engineer building production-ready SaaS, ecommerce, POS, payment, learning-management, civic-technology, mobile, and business web applications.
+I'm a Nigeria-based full-stack software developer, product engineer, and founder of [OrangeServer LLC](https://www.orangeserver.net/), building production-ready SaaS, ecommerce, POS, payment, learning-management, civic-technology, mobile, hosting, and business web products.
 
 My core stack includes Laravel, PHP, React, Next.js, TypeScript, Node.js, MySQL, PostgreSQL, React Native, WordPress, Supabase, and progressive web app technologies. I take products from requirements and database design through secure backend workflows, responsive interfaces, testing, deployment, and ongoing operations.
 
@@ -9,10 +9,26 @@ I have completed more than 50 web projects and am open to remote, international,
 ## Professional profile
 
 - End-to-end product delivery across backend, frontend, mobile, database, integrations, and deployment
+- Founder of OrangeServer LLC, combining technical delivery with web-hosting product strategy, customer operations, and commercial ownership
 - Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, commercial WordPress plugins, and offline-first PWA workflows
 - Sixteen public technical case studies, including thirteen source-code repositories, twelve live production deployments, and two interactive previews linked below
 - Engineering evidence including automated tests, GitHub Actions CI, documented setup, security notes, and environment-safe public repositories
 - Cross-sector delivery for commerce, professional services, travel and tourism, hospitality, behavioral health and healthcare training, civic engagement, children's education, digital competitions, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
+
+## Founder experience — [OrangeServer LLC](https://www.orangeserver.net/)
+
+I founded OrangeServer LLC as a commercial web-hosting and digital-services business serving customers who need domains, websites, email, security, and online-growth tools in one place.
+
+- Domain registration, bulk registration, transfers, forwarding, locking, DNS control, and renewal services
+- cPanel, WordPress, business, and VPS hosting product options
+- Microsoft 365, Zoho, email marketing, and business-email services
+- SSL certificates, managed SSL, website security, monitoring, and backup products
+- WordPress implementation, web design, website-builder, and SEO services
+- Customer account, purchasing, support, live-chat, and WhatsApp service pathways
+
+This founder experience adds a commercial and operational perspective to my engineering work: I understand how technical products are packaged, sold, supported, secured, and maintained for real customers.
+
+[Visit OrangeServer](https://www.orangeserver.net/)
 
 ## Portfolio at a glance
 
@@ -303,13 +319,14 @@ A production WordPress website that turns sustainability expertise, environmenta
 - **Frontend:** React, Next.js, Inertia, TypeScript, JavaScript, Vite, HTML, CSS, Tailwind CSS, Bootstrap, responsive user interfaces
 - **Data:** PostgreSQL, MySQL, MariaDB, SQLite, Supabase, relational data modelling, JSON-backed content systems
 - **Mobile and PWA:** React Native, Expo, service workers, installable apps, offline and weak-network experiences
-- **Platforms and delivery:** WordPress plugin and theme development, Apache, cPanel, GitHub Actions, automated testing, production deployment, environment configuration
+- **Platforms and delivery:** WordPress plugin and theme development, Apache, cPanel, domain and DNS management, web hosting, SSL lifecycle, GitHub Actions, automated testing, production deployment, environment configuration
 - **Integrations:** Paystack, Flutterwave, Stripe, Google OAuth, OpenAI, SMTP, media uploads, CSV reporting
-- **Product domains:** SaaS, ecommerce, point of sale, payments, LMS, civic tech, CMS, commercial plugins, software licensing, workflow automation, service operations
+- **Product domains:** SaaS, ecommerce, point of sale, payments, LMS, civic tech, CMS, web hosting, domain services, commercial plugins, software licensing, workflow automation, service operations
 
 ## What I bring
 
 - I own features from requirements and database design to tested, deployed user experiences.
+- I bring founder-level perspective across product strategy, customer value, commercial operations, support, and technical delivery.
 - I translate real operational and commercial processes into maintainable software workflows.
 - I build with security, mobile usability, accessibility, performance, lead generation, and day-to-day administration in mind.
 - I document setup and deployment so another engineer can understand, run, and extend the work.
