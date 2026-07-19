@@ -10,9 +10,9 @@ I have completed more than 50 web projects and am open to remote, international,
 
 - End-to-end product delivery across backend, frontend, mobile, database, integrations, and deployment
 - Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, commercial WordPress plugins, and offline-first PWA workflows
-- Fourteen public technical case studies, including thirteen source-code repositories, ten live production deployments, and two interactive previews linked below
+- Fifteen public technical case studies, including thirteen source-code repositories, eleven live production deployments, and two interactive previews linked below
 - Engineering evidence including automated tests, GitHub Actions CI, documented setup, security notes, and environment-safe public repositories
-- Cross-sector delivery for commerce, professional services, travel and tourism, healthcare training, civic engagement, children's education, digital competitions, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
+- Cross-sector delivery for commerce, professional services, travel and tourism, hospitality, healthcare training, civic engagement, children's education, digital competitions, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
 
 ## Portfolio at a glance
 
@@ -24,6 +24,7 @@ I have completed more than 50 web projects and am open to remote, international,
 | iWorks GT | Service operations, payments, delivery, commissions, and reporting | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/iworksgt-service-portal) · [Live](https://portal.iworksgt.com/) |
 | Contest Voting System | Paid voting, payment verification, setup wizard, trials, licensing, and domain monitoring | WordPress, PHP, MySQL, Paystack, Flutterwave | [Source](https://github.com/oprahayo/contest-voting-system-wordpress-plugin) · [Live demo](https://plugin.iworksgt.com/) |
 | Triply Travels | Travel services, customer requests, agent operations, messaging, content, and administration | PHP, SQLite, JavaScript | [Source](https://github.com/oprahayo/triply-travels-platform) · [Live](https://triplytravels.com/) |
+| Nevada Helmos | Hospitality, accommodation discovery, property presentation, and booking pathways | WordPress, responsive web design | [Case study](https://github.com/oprahayo/nevada-helmos-wordpress-case-study) · [Live](https://nevadahelmos.com/) |
 | Eki Suggest / EkiSignal | Civic reporting, issue tracking, moderation, and public-sector routing | Next.js, React, TypeScript, Supabase, PWA | [Source](https://github.com/oprahayo/eki-suggest) |
 | GraceKids | Family devotion platform with backend, web dashboard, and mobile app | Node.js, Express, React, React Native, MySQL | [Source](https://github.com/oprahayo/gracekids-devotion-app) |
 | HOG Healthcare LMS | Healthcare learning, assessments, certificates, and administration | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/hog-healthcare-lms) · [Live](https://hoghealthcare.org/lms/index.php) |
@@ -218,6 +219,21 @@ A production travel-services platform combining a search-optimized public websit
 - Canonical and social metadata, structured search signals, robots directives, XML sitemap, and GitHub Actions PHP linting
 
 [View the source code](https://github.com/oprahayo/triply-travels-platform) · [View the live website](https://triplytravels.com/)
+
+### [Nevada Helmos](https://github.com/oprahayo/nevada-helmos-wordpress-case-study)
+
+[![Nevada Helmos production homepage](https://raw.githubusercontent.com/oprahayo/nevada-helmos-wordpress-case-study/main/docs/screenshots/nevada-helmos-homepage.jpg)](https://nevadahelmos.com/)
+
+A production WordPress hospitality website presenting modern serviced accommodation in Lagos through a polished, booking-oriented guest journey.
+
+- Premium room and property imagery with a clear accommodation value proposition
+- Guest-benefit storytelling, accommodation discovery and responsive interior gallery
+- Direct pathways to contact information, booking policy and booking action
+- Consistent hospitality branding across desktop, tablet and mobile
+- HTTPS production deployment on the organisation's domain
+- Responsible case-study publication excluding WordPress core, licensed theme and plugin code, credentials, customer data, booking records, uploads, logs and backups
+
+[View the technical case study](https://github.com/oprahayo/nevada-helmos-wordpress-case-study) · [View the live website](https://nevadahelmos.com/)
 
 ### [Sojay Farms Website](https://github.com/oprahayo/sojay-farms-website)
 
