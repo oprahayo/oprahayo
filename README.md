@@ -10,9 +10,9 @@ I have completed more than 50 web projects and am open to remote, international,
 
 - End-to-end product delivery across backend, frontend, mobile, database, integrations, and deployment
 - Production experience with multi-tenant SaaS, ecommerce, browser POS, payments, authentication, role-based access control, LMS, CMS, commercial WordPress plugins, and offline-first PWA workflows
-- Fifteen public technical case studies, including thirteen source-code repositories, eleven live production deployments, and two interactive previews linked below
+- Sixteen public technical case studies, including thirteen source-code repositories, twelve live production deployments, and two interactive previews linked below
 - Engineering evidence including automated tests, GitHub Actions CI, documented setup, security notes, and environment-safe public repositories
-- Cross-sector delivery for commerce, professional services, travel and tourism, hospitality, healthcare training, civic engagement, children's education, digital competitions, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
+- Cross-sector delivery for commerce, professional services, travel and tourism, hospitality, behavioral health and healthcare training, civic engagement, children's education, digital competitions, agriculture, environmental sustainability, beauty services, cleaning services, and sports organizations
 
 ## Portfolio at a glance
 
@@ -28,6 +28,7 @@ I have completed more than 50 web projects and am open to remote, international,
 | Eki Suggest / EkiSignal | Civic reporting, issue tracking, moderation, and public-sector routing | Next.js, React, TypeScript, Supabase, PWA | [Source](https://github.com/oprahayo/eki-suggest) |
 | GraceKids | Family devotion platform with backend, web dashboard, and mobile app | Node.js, Express, React, React Native, MySQL | [Source](https://github.com/oprahayo/gracekids-devotion-app) |
 | HOG Healthcare LMS | Healthcare learning, assessments, certificates, and administration | PHP, MySQL, JavaScript | [Source](https://github.com/oprahayo/hog-healthcare-lms) · [Live](https://hoghealthcare.org/lms/index.php) |
+| Restoration LLC | Behavioral-health services, patient education, insurance guidance, and appointment pathways | React, JavaScript, responsive web design | [Case study](https://github.com/oprahayo/restoration-llc-behavioral-health-case-study) · [Live](https://www.restorationllc.net/) |
 | HOG Cleaning Services | Conversion-focused service marketing website | HTML, CSS, Bootstrap | [Source](https://github.com/oprahayo/hog-cleaning-services) · [Live](https://hoghealthcare.org/hog-cleaning/) |
 | Sure Sports FC | Club, academy, recruitment, sponsorship, and media website | HTML, CSS, JavaScript, PHP | [Source](https://github.com/oprahayo/sure-sports-fc-website) · [Live](https://suresports.org/) |
 | Rudder Sports Management | PHP content management, events, gallery, blog, and shop structure | PHP, JSON, JavaScript | [Source](https://github.com/oprahayo/rudder-sports-management-site) · [Live](https://ruddersports.com/) |
@@ -159,6 +160,21 @@ A healthcare learning management portal for online certificate pathways, learner
 - MySQL starter schema and GitHub Actions PHP linting
 
 [View the source code](https://github.com/oprahayo/hog-healthcare-lms) · [View the live LMS](https://hoghealthcare.org/lms/index.php)
+
+### [Restoration LLC Behavioral Health](https://github.com/oprahayo/restoration-llc-behavioral-health-case-study)
+
+[![Restoration LLC production homepage](https://raw.githubusercontent.com/oprahayo/restoration-llc-behavioral-health-case-study/main/docs/screenshots/restoration-llc-homepage.jpg)](https://www.restorationllc.net/)
+
+A production React website helping prospective patients understand behavioral-health services, find providers, review insurance information and move toward appointment scheduling.
+
+- Calm, professional healthcare branding with clear wellness and appointment messaging
+- Provider, service, insight, insurance, about and contact discovery paths
+- Clinic and telehealth information with treatment-focus presentation
+- Zocdoc appointment integration, intake-form access and practical patient resources
+- Responsive React delivery with production-bundled JavaScript and CSS assets
+- Privacy-conscious case-study publication excluding patient information, intake submissions, appointment records, credentials, certificates and private clinical material
+
+[View the technical case study](https://github.com/oprahayo/restoration-llc-behavioral-health-case-study) · [View the live website](https://www.restorationllc.net/)
 
 ### [HOG Cleaning Services Website](https://github.com/oprahayo/hog-cleaning-services)
 
