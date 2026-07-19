@@ -251,11 +251,14 @@ A polished single-page beauty-studio booking prototype for service discovery, ar
 
 ### [Triple G Eco Revival](https://github.com/oprahayo/triple-g-eco-revival-case-study)
 
-A production WordPress website presenting sustainability, environmental standards, corporate responsibility, operational excellence, and partner credibility for an Africa-focused organisation.
+[![Triple G Eco Revival production homepage](https://raw.githubusercontent.com/oprahayo/triple-g-eco-revival-case-study/main/docs/screenshots/triple-g-eco-homepage.jpg)](https://triplegeco.com/)
 
+A production WordPress website that turns sustainability expertise, environmental standards, corporate responsibility, and operational experience into a credible, visually engaging client journey.
+
+- High-impact environmental storytelling with a clear corporate value proposition
 - Responsive corporate experience across mobile, tablet, and desktop
-- Sustainability and environmental-standard positioning
-- Branded credibility, partner, and call-to-action sections
+- Trust-building presentation of standards, operations, clients, and partners
+- Clear service-discovery, insight, and enquiry pathways
 - HTTPS production deployment on the organisation's domain
 - Responsible case-study publication that excludes WordPress core, licensed commercial theme code, plugins, credentials, uploads, logs, and client data
 
